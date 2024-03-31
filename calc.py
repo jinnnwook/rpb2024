@@ -13,7 +13,6 @@ def add(a, b):
     return a + b
     
     
-# TODO: divide() 함수 정의
 def divide(x,y):
     if y==0:
         print('Error: cannot divide by zero.')
